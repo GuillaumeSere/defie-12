@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/defie-12/static/css/main.2e7484cd.css",
-    "main.js": "/defie-12/static/js/main.7738bca4.js",
+    "main.css": "/defie-12/static/css/main.0fc19a8d.css",
+    "main.js": "/defie-12/static/js/main.7c149fe6.js",
     "index.html": "/defie-12/index.html",
     "static/media/icon-dice.svg": "/defie-12/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-desktop.svg": "/defie-12/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
     "static/media/pattern-divider-mobile.svg": "/defie-12/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.2e7484cd.css.map": "/defie-12/static/css/main.2e7484cd.css.map",
-    "main.7738bca4.js.map": "/defie-12/static/js/main.7738bca4.js.map"
+    "main.0fc19a8d.css.map": "/defie-12/static/css/main.0fc19a8d.css.map",
+    "main.7c149fe6.js.map": "/defie-12/static/js/main.7c149fe6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e7484cd.css",
-    "static/js/main.7738bca4.js"
+    "static/css/main.0fc19a8d.css",
+    "static/js/main.7c149fe6.js"
   ]
 }
